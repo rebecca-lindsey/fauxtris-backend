@@ -1,0 +1,2 @@
+class DifficultyController < ApplicationController
+end
