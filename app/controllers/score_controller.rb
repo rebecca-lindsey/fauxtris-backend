@@ -1,2 +1,3 @@
 class ScoreController < ApplicationController
+
 end
